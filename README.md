@@ -4,6 +4,6 @@ Name: Rebecca Meares
 Assignment: Lab 4-Version Control
 <<<<<<< HEAD
 
-"This might cause a merge conflict" 
+"This might cause a merge conflict"
 
 Partner: Bryan Arment
