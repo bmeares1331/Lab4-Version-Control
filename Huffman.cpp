@@ -3,6 +3,7 @@
 // constructor, initialize class variables and pointers here if need.
 Huffman::Huffman(){
   // your code here
+  string  hello = "Hi my name is becca";
 }
 
 //deconstructor,
