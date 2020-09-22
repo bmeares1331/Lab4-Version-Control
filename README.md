@@ -2,3 +2,4 @@
 
 Name: Rebecca Meares
 Assignment: Lab 4-Version Control
+Partner: Bryan Arment
